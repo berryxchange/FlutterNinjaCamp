@@ -1,5 +1,5 @@
-import 'package:flutter_ninja_camp/OOPProgramming/Inheritance.dart';
-import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Inheritance/Weapons/Swords/Katana.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Inheritance/Weapons/Swords/Tanto.dart';
 
 class WeaponsFactory {
   static createSword({required String kindOfSword}) {
@@ -15,6 +15,12 @@ class WeaponsFactory {
 
 class ClothingFactory {
   static createClothing({required String kindOfClothing}){
-    
+
+  }
+}
+
+class CampFactory{
+  static createNewCamp({required String styleOfCamp}){
+    //do something here
   }
 }

@@ -1,5 +1,9 @@
-import 'package:flutter_ninja_camp/OOPProgramming/Inheritance.dart';
-import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism.dart';
+
+import 'package:flutter_ninja_camp/OOPProgramming/Inheritance/Ninja/Jonin.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism/Polymorphism.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism/Leader.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism/Ninja.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism/Weapon.dart';
 
 //encapsulation - the practice of bundling data and methods that operate on that data within a single unit or object.
 

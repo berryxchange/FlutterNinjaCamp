@@ -1,6 +1,4 @@
-//Polymorphism - allows objects of different classes to be treated as objects of a common class.
-
-import 'package:flutter_ninja_camp/OOPProgramming/Inheritance.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism/Weapon.dart';
 
 abstract class Ninja {
   String name;
@@ -17,5 +15,3 @@ abstract class Ninja {
       required this.clothes});
 
 }
-
-abstract class Leader implements Ninja {}

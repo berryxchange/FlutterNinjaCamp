@@ -1,5 +1,7 @@
-import 'package:flutter_ninja_camp/OOPProgramming/Inheritance.dart';
-import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Inheritance/Ninja/Genin.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Inheritance/Ninja/Jonin.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism/Ninja.dart';
+import 'package:flutter_ninja_camp/OOPProgramming/Polymorphism/Weapon.dart';
 
 class JoninBuilder implements Jonin {
   @override
